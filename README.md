@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CashMan9264
+- 👀 I’m interested in game design
+- 🌱 I’m currently learning c# but don't know where to start
+- ⚡ Fun fact: I am cool
